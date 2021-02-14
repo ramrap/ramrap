@@ -1,8 +1,8 @@
 ### Hi there, I'm Rahul Parmar - aka [Rahul]👋
 
-## I'm a Student, Undergraduate, Developer, and !
+## I'm a Student, Developer,and blah blah !
 
-- 🔭 I’m currently working on a my final year project!
+- 🔭 I’m currently CSE sophomore at IITD
 - 🌱 I’m currently learning Fullstack and Machine Learning
 - ⚡ Fun fact: I love to play chess and listen music.
 
